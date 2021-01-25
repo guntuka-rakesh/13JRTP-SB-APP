@@ -8,6 +8,7 @@ public class JrtpSbApp4Application {
 
 	public static void main(String[] args) {
 		SpringApplication.run(JrtpSbApp4Application.class, args);
+		System.out.println("hii");
 	}
 
 }
