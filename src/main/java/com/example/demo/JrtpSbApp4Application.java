@@ -13,8 +13,19 @@ public class JrtpSbApp4Application {
 
 		System.out.println("HIS-134");
 		System.out.println("fds");
-
-        
+		//////////////////////////////////////
+		int i=10;
+		String g="hello";
+ 
+		System.out.println(i);
+		System.out.println(g);
+		
+		//////////////////////////////////////
+		int j=10;
+		String d="hello";
+		
+		System.out.println(i);
+		System.out.println(g);
 	}
 
 }
