@@ -14,6 +14,10 @@ public class JrtpSbApp4Application {
 		System.out.println("HIS-134");
 		System.out.println("fds");
 		//////////////////////////////////////
+                int d=10;
+                int e30;
+                //////////////////////////////
+
 		int i=10;
 		String g="hello";
  
