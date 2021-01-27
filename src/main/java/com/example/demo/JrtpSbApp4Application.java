@@ -16,6 +16,7 @@ public class JrtpSbApp4Application {
 		//////////////////////////////////////
                 int d=10;
                 int e30;
+                int f=40;
                 //////////////////////////////
 
 		int i=10;
