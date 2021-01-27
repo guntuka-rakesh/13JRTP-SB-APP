@@ -6,6 +6,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class JrtpSbApp4Application {
           Map<String,Integer> m= new HashMap();
+            private statuc final String REST_URL="https://www.google.com";
 
 	public static void main(String[] args) {
 		SpringApplication.run(JrtpSbApp4Application.class, args);
@@ -35,6 +36,9 @@ public class JrtpSbApp4Application {
 	}
         public void amazon(){
          //logic
+
+         public void google(){
+          //logic
         }
 
 }
